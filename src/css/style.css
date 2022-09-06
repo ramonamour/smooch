@@ -18,3 +18,7 @@ section {
     width: 80%;
     align-self: center;
 }
+
+#logocircle {
+    width:fit-content;
+}
