@@ -23,21 +23,24 @@ section {
     display: flex;
     justify-content: center; 
     align-items: center;
-    height: 15em;
-    width: 15em;
+    width: 20%;
     background-color: #E1E4DD;
     border-radius: 50%;
   }
 
 #cocktailsbutton {
-    padding-left: 15em;
+    padding-left: 90%;
+}
+
+#cocktailsbutton {
+    padding-right: 90%;
 }
 
 #logocircle {
     display: flex;
     justify-content: center; 
     align-items: center;
-    max-width: 55.5em;
-    padding-top: 10em;
-    padding-bottom: 10em;
+    max-width: 100%;
+    padding-top: 20%;
+    padding-bottom: 20%;
 }
