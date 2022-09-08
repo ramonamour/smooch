@@ -24,7 +24,7 @@ section {
     display: flex;
     justify-content: center; 
     align-items: center;
-    width: 20%;
+    width: 30%;
     background-color: #E1E4DD;
     border-radius: 50%;
   }
@@ -42,6 +42,22 @@ section {
     justify-content: center; 
     align-items: center;
     max-width: 100%;
-    padding-top: 20%;
-    padding-bottom: 20%;
+}
+
+#midsec {
+    padding-top: 30%;
+    padding-bottom: 30%;
+}
+
+#topsec, #bottomsec {
+    width: 50%;
+}
+
+#bottomsec {
+    padding-left: 75%;
+
+}
+
+#foodbutton, #cocktailsbutton {
+    width:calc(width);
 }
